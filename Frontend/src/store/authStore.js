@@ -1,7 +1,7 @@
 import {create} from 'zustand';
 import axios from 'axios';
 
-const API_URL = "hhttps://authentication-5zw7.onrender.com"
+const API_URL = "http://localhost:5000/api/auth"
 
 axios.defaults.withCredentials = true;
 
