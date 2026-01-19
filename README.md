@@ -24,21 +24,28 @@ Built with **MongoDB, Express, React, Node.js**, and **Zustand** for state manag
 ## 🖼️ Screenshots
 
 > Login Page
-<img width="839" height="630" alt="image" src="https://github.com/user-attachments/assets/34649e6e-fa68-47d4-b29e-3c3e58356789" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/34649e6e-fa68-47d4-b29e-3c3e58356789" />
+
 > SignUp Page
-<img width="1478" height="801" alt="image" src="https://github.com/user-attachments/assets/547d2006-edd9-4ad7-9a9e-5bac0c9e7b52" />
+<img  width="500" height="350"  alt="image" src="https://github.com/user-attachments/assets/547d2006-edd9-4ad7-9a9e-5bac0c9e7b52" />
+
 > OTP Verification
-<img width="1138" height="658" alt="image" src="https://github.com/user-attachments/assets/8336e47a-b9d9-496f-ad63-68bdc4aebc29" />
+<img  width="500" height="350"  alt="image" src="https://github.com/user-attachments/assets/8336e47a-b9d9-496f-ad63-68bdc4aebc29" />
+
 > Verification Email
-<img width="1752" height="890" alt="image" src="https://github.com/user-attachments/assets/2547e639-0179-4e3e-a7d5-fd4555492aa6" />
+<img width="500" height="350"  alt="image" src="https://github.com/user-attachments/assets/2547e639-0179-4e3e-a7d5-fd4555492aa6" />
+
 > DashBoard
-<img width="1189" height="723" alt="image" src="https://github.com/user-attachments/assets/4b1b468d-6631-4e80-8e36-32809d5a202a" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/4b1b468d-6631-4e80-8e36-32809d5a202a" />
+
 > Forgot Password
-<img width="1218" height="620" alt="image" src="https://github.com/user-attachments/assets/a7250574-0e65-4a0d-b93e-a7bd5b2cd12c" />
+<img  width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a7250574-0e65-4a0d-b93e-a7bd5b2cd12c" />
+
 > Password Reset Mail
-<img width="1663" height="852" alt="image" src="https://github.com/user-attachments/assets/f82fd2ed-98fb-441f-998a-430ebf5d71e9" />
+<img  width="500" height="350"  alt="image" src="https://github.com/user-attachments/assets/f82fd2ed-98fb-441f-998a-430ebf5d71e9" />
+
 > Password Reset Window
-<img width="1259" height="669" alt="image" src="https://github.com/user-attachments/assets/b903ec0b-ae7f-4a9f-b199-78a3e76f455a" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/b903ec0b-ae7f-4a9f-b199-78a3e76f455a" />
 
 ---
 
